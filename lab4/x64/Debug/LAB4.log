@@ -1,0 +1,19 @@
+﻿  LAB4.cpp
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(105,6): error C2182: "swap": недопустимое использование "void"
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(105,17): error C2065: t1: необъявленный идентификатор
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(105,27): error C2065: t2: необъявленный идентификатор
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(106,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(107,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(107,2): error C2365: time: переопределение; предыдущим определением было "функция"
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\time.h(548,42):
+       см. объявление "time"
+  
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(107,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "tr"
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(108,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(108,7): error C2065: t2: необъявленный идентификатор
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(109,2): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(109,7): error C2065: tr: необъявленный идентификатор
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(110,1): error C2059: синтаксическая ошибка: }
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(110,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(112,12): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Admin\source\repos\LAB4\LAB4\LAB4.cpp(112,12): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
